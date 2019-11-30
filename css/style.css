@@ -1166,3 +1166,14 @@ a {
 
 #lightgallery .item {
   margin-bottom: 30px; }
+
+.espai-imatges-portfoli{
+  padding: 10px 0;
+  border-radius: 7%;
+}
+
+.espai-imatges-portfoli-width{
+  padding: 10px 0;
+  border-radius: 7%;
+  width: 65%;
+}
